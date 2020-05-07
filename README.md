@@ -1,4 +1,4 @@
-# Expense Tracker (MERN)
+# Document Store (MERN)
 
 > Full stack expense tracker
 
